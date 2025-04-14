@@ -1,5 +1,5 @@
 # [HCSeeker: A Classification Tool for Human Genetic Variant Hot and Cold Spots Designed for PM1 and Benign Criteria in the ACMG-AMP Guideline](https://genemed.tech/hcseeker/)
-[https://img.shields.io/github/release/BNDong/Cnblogs-Theme-SimpleMemory.svg](https://img.shields.io/static/v1?label=Translation&message=Dev&color=blue)
+https://img.shields.io/static/v1?label=Translation&message=Dev&color=blue
 #### Introduction
 HCSeeker employs the Kernel Density Estimation (KDE) algorithm and the Expectation-Maximization (EM) algorithm from machine learning to calculate the variant density on the amino acid sequence of each gene and identify potential hot and cold spot regions.
 
