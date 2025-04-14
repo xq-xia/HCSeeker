@@ -2,7 +2,7 @@
 [![github](https://img.shields.io/badge/numpy->=1.26.4-brightgreen.svg)](https://github.com/snowdreams1006)
 [![github](https://img.shields.io/badge/pandas->=2.2.2-Crimsonpink.svg)](https://github.com/snowdreams1006)
 [![github](https://img.shields.io/badge/skikit-learn->=1.4.2-DarkSlateBlueDoderBlue.svg)](https://github.com/snowdreams1006)
-[![github](https://img.shields.io/badge/scipy->=1.13.1-PaleTurquoiseSpringGreen.svg)](https://github.com/snowdreams1006)
+[![github](https://img.shields.io/badge/scipy->=1.13.1-redpink.svg)](https://github.com/snowdreams1006)
 [![github](https://img.shields.io/badge/python->=3.6-OliveBeige.svg)](https://github.com/snowdreams1006)
 #### Introduction
 HCSeeker employs the Kernel Density Estimation (KDE) algorithm and the Expectation-Maximization (EM) algorithm from machine learning to calculate the variant density on the amino acid sequence of each gene and identify potential hot and cold spot regions.
