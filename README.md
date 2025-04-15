@@ -19,11 +19,12 @@ HCSeeker employs the Kernel Density Estimation (KDE) algorithm and the Expectati
 
 These scripts do not require compilation.
 
-## How to use `Auto-annotate.py` scripts to annotate whether our variants are located in cold and hot spot regions
+## Annotate whether our variant is located in a cold hot spot regions
+How to use `Auto-annotation.py` scripts to annotate whether our variants are located in cold and hot spot regions
 ```bash
-python Auto-annotation.py -i /path/to/your/input.vcf -o /path/to/your/output.vcf -bulider hg38
+python Auto-annotation.py -i /path/to/your/input.vcf -o /path/to/your/output.vcf -buildver hg38
 ```
-## Instructions for use
+## Other script purposes
 
 - 00_database-processing.sh
 
@@ -49,9 +50,7 @@ python Auto-annotation.py -i /path/to/your/input.vcf -o /path/to/your/output.vcf
 - 07_profile-coefficient.py
 
     Calculate contour coefficient
-- Auto-annotation.py
-
-    comment script 
+  
 - hg19-to-hg38.sh
 
     Script for converting hg19 genome version coordinates to hg38 version
