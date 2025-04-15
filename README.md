@@ -7,7 +7,7 @@
 
 HCSeeker employs the Kernel Density Estimation (KDE) algorithm and the Expectation-Maximization (EM) algorithm from machine learning to calculate the variant density on the amino acid sequence of each gene and identify potential hot and cold spot regions.
 <div align="center">
-  <img src="data/HCSeeker_update_1080.png" alt="HCSeeker Graph" width=100px>
+  <img src="data/HCSeeker_update_1080.png" alt="HCSeeker Graph" width=500px>
 </div>
 
  
