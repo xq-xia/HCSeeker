@@ -1,5 +1,5 @@
 # [HCSeeker: A Classification Tool for Human Genetic Variant Hot and Cold Spots Designed for PM1 and Benign Criteria in the ACMG-AMP Guideline](https://genemed.tech/hcseeker/)
-[![github](https://img.shields.io/badge/numpy->=1.26.4-brightgreen.svg)](https://github.com/snowdreams1006)
+[![github](https://img.shields.io/badge/numpy->=1.26.4-brightgreen.svg)](https://numpy.org/doc/stable/reference/index.html)
 [![github](https://img.shields.io/badge/pandas->=2.2.2-pink.svg)](https://github.com/snowdreams1006)
 [![github](https://img.shields.io/badge/skikit_learn->=1.4.2-red.svg)](https://github.com/snowdreams1006)
 [![github](https://img.shields.io/badge/scipy->=1.13.1-yellow.svg)](https://github.com/snowdreams1006)
