@@ -6,6 +6,9 @@
 [![github](https://img.shields.io/badge/python->=3.6-Olive.svg)](https://github.com/snowdreams1006)
 
 HCSeeker employs the Kernel Density Estimation (KDE) algorithm and the Expectation-Maximization (EM) algorithm from machine learning to calculate the variant density on the amino acid sequence of each gene and identify potential hot and cold spot regions.
+<div align="center">
+  <img src="data/HCSeeker_update_1080.png" alt="HCSeeker Graph">
+</div>
 
  
 ## Python packages that need to be installed
