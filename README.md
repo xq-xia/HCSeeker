@@ -19,6 +19,10 @@ HCSeeker employs the Kernel Density Estimation (KDE) algorithm and the Expectati
 
 These scripts do not require compilation.
 
+## How to use `Auto-annotate.py` scripts to annotate whether our variants are located in cold and hot spot regions
+```bash
+python Auto-annotation.py -i /path/to/your/input.vcf -o /path/to/your/output.vcf -bulider hg38
+```
 ## Instructions for use
 
 - 00_database-processing.sh
