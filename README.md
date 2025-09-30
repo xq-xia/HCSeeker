@@ -72,4 +72,6 @@ python Auto-annotation.py -i /path/to/your/input.vcf -o /path/to/your/output.vcf
 
 ## Citation
 If you use EpiAgent in your research, please cite our paper:
+
 Yuan X, Xia X, Li J, Zhao G. HCSeeker: A Classification Tool for Human Genetic Variant Hot and Cold Spots Designed for PM1 and Benign Criteria in the ACMG-AMP Guideline. Genet Med. 2025 Sep 25:101591. doi: 10.1016/j.gim.2025.101591. PMID: 41017653.
+
